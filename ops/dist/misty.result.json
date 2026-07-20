@@ -1,0 +1,18 @@
+{
+  "tool": "misty-doi",
+  "state": "published",
+  "doi": "10.5281/zenodo.21449034",
+  "concept_doi": "10.5281/zenodo.21449033",
+  "record_url": "https://zenodo.org/record/21449034",
+  "deposition_id": 21449034,
+  "bucket": "https://zenodo.org/api/files/e824b845-d7e4-4c81-874d-e08cf563b520",
+  "sandbox": false,
+  "files": [
+    {
+      "name": "dome-f16415c.tar.gz",
+      "size": 313771,
+      "sha256": "0dcd4c29c48a9a13fc50eba6f8c579e742cdfb4f68b48204861d48b1b21ecc64"
+    }
+  ],
+  "generated_at": "2026-07-20T04:43:13+00:00"
+}

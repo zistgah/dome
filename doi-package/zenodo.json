@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "zistgah/dome: the Zistgah virtual dome as a reusable, config-driven app/lib",
+    "version": "0.2.0",
+    "upload_type": "software",
+    "description": "The complete zistgah.org dome experience factored into a documented, third-party-customisable library: interior hall with oculus time scrub and the CHAKRA ten-calendar strip, flight system (altitude hold by default, gravity and yaw/pitch/roll sensitivity configurable, thrust-vectored roll, 10 Hz drone-state emitter for future multi-drone presence), config-file driven worlds (per-world gravity, planetary habitats and orbital stations - the Zistgah-e-Mahtab / Zistgah-e-Bahram pattern generalised), the planet turning with the hall, built-in displays (ilm.codes-style point cloud, rotating viewer's gallery, YouTube screens), deep star shell, debug overlay, and a marked-and-counted modification discipline over the verbatim landing source. Ships with scaffold, example config, demo, and full documentation including the AAB-over-VGC engineering process practised to build it.",
+    "license": "GPL-3.0-or-later",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Choudhary, Abhishek",
+        "affiliation": "AyeAI",
+        "orcid": "0009-0002-0684-8320"
+      }
+    ],
+    "keywords": [
+      "Zistgah",
+      "virtual dome",
+      "three.js",
+      "CHAKRA",
+      "flight simulator",
+      "worlds",
+      "point cloud",
+      "configurable",
+      "AAB",
+      "VGC"
+    ],
+    "references": [
+      "FAKIR: 10.5281/zenodo.21436550",
+      "VGC methodology: 10.5281/zenodo.21264248",
+      "misty-doi: 10.5281/zenodo.20719388"
+    ],
+    "notes": "(c) 1993-2026 Abhishek Choudhary. All rights reserved. AI model: Claude Fable 5 (Anthropic). DOI injected post-mint; no fabrication.",
+    "language": "eng"
+  }
+}

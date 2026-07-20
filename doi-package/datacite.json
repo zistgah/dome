@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "software"
+  },
+  "titles": [
+    {
+      "title": "zistgah/dome: the Zistgah virtual dome as a reusable, config-driven app/lib"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "nameType": "Personal",
+      "givenName": "Abhishek",
+      "familyName": "Choudhary",
+      "affiliation": [
+        {
+          "name": "AyeAI"
+        }
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/0009-0002-0684-8320",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    }
+  ],
+  "publisher": "Zenodo",
+  "publicationYear": "2026",
+  "subjects": [
+    {
+      "subject": "Zistgah"
+    },
+    {
+      "subject": "virtual dome"
+    },
+    {
+      "subject": "three.js"
+    },
+    {
+      "subject": "CHAKRA"
+    },
+    {
+      "subject": "flight simulator"
+    },
+    {
+      "subject": "worlds"
+    },
+    {
+      "subject": "point cloud"
+    },
+    {
+      "subject": "configurable"
+    },
+    {
+      "subject": "AAB"
+    },
+    {
+      "subject": "VGC"
+    }
+  ],
+  "version": "0.2.0",
+  "descriptions": [
+    {
+      "description": "The complete zistgah.org dome experience factored into a documented, third-party-customisable library: interior hall with oculus time scrub and the CHAKRA ten-calendar strip, flight system (altitude hold by default, gravity and yaw/pitch/roll sensitivity configurable, thrust-vectored roll, 10 Hz drone-state emitter for future multi-drone presence), config-file driven worlds (per-world gravity, planetary habitats and orbital stations - the Zistgah-e-Mahtab / Zistgah-e-Bahram pattern generalised), the planet turning with the hall, built-in displays (ilm.codes-style point cloud, rotating viewer's gallery, YouTube screens), deep star shell, debug overlay, and a marked-and-counted modification discipline over the verbatim landing source. Ships with scaffold, example config, demo, and full documentation including the AAB-over-VGC engineering process practised to build it.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "GPL-3.0-or-later",
+      "rightsIdentifier": "GPL-3.0-or-later",
+      "rightsIdentifierScheme": "SPDX"
+    }
+  ],
+  "language": "eng"
+}

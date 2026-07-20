@@ -7,7 +7,7 @@ worlds), pedestal exhibits with engraved plaques and hover cards, nebula and gly
 meteors, dawn cycle, settings — factored into a reusable, **config-file-driven** library
 that third parties can customise without touching the code.
 
-**DOI:** `DOI-PENDING` (injected post-mint via misty-doi — never fabricated).
+**DOI:** `10.5281/zenodo.21449034` (injected post-mint via misty-doi — never fabricated).
 
 ## Quick start
 
