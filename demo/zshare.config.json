@@ -1,0 +1,14 @@
+{
+  "_copyright": "© 1993–2026 Abhishek Choudhary. All rights reserved.",
+  "title": "Zistgah Dome",
+  "short": "Dome",
+  "text": "zistgah/dome — demo (the default hall, from the example config)",
+  "bg": "#050a18",
+  "fg": "#c9a44e",
+  "hashKey": "s",
+  "sw": "sw.js",
+  "whatsapp": true,
+  "card": true,
+  "stamp": true,
+  "installHint": true
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Zistgah Dome",
+  "short_name": "Dome",
+  "description": "zistgah/dome — demo (the default hall, from the example config)",
+  "id": "/dome/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050a18",
+  "theme_color": "#050a18",
+  "categories": [
+    "education",
+    "entertainment",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
